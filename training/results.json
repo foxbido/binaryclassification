@@ -1,0 +1,266 @@
+{
+    "Dante Alighieri-John Milton": [
+        0.9252831403016982,
+        0.9328128128128128
+    ],
+    "Dante Alighieri-William Butler Yeats": [
+        0.9518536133474811,
+        0.9560110548134501
+    ],
+    "Dante Alighieri-Walt Whitman": [
+        0.9522630751977846,
+        0.9544440455431327
+    ],
+    "Dante Alighieri-William Shakespeare": [
+        0.9687226674810703,
+        0.9752186588921283
+    ],
+    "Dante Alighieri-Ezra Pound": [
+        0.986249640382303,
+        0.9861237012760616
+    ],
+    "Dante Alighieri-T. S. Eliot": [
+        0.9906431161963711,
+        0.9930187098575817
+    ],
+    "John Milton-William Butler Yeats": [
+        0.8902639940981526,
+        0.891427112911974
+    ],
+    "John Milton-Walt Whitman": [
+        0.8903610708261495,
+        0.8960129038762035
+    ],
+    "John Milton-William Shakespeare": [
+        0.920655250988468,
+        0.9260198066493751
+    ],
+    "John Milton-Ezra Pound": [
+        0.9493975903614459,
+        0.9527004098253674
+    ],
+    "John Milton-T. S. Eliot": [
+        0.9575766656677654,
+        0.9555735478478897
+    ],
+    "William Butler Yeats-Walt Whitman": [
+        0.788524708012897,
+        0.7978549252046289
+    ],
+    "William Butler Yeats-William Shakespeare": [
+        0.8689992048242127,
+        0.8691647477496337
+    ],
+    "William Butler Yeats-Ezra Pound": [
+        0.8801249348327996,
+        0.8890192914252182
+    ],
+    "William Butler Yeats-T. S. Eliot": [
+        0.8987989182309895,
+        0.9024695908588278
+    ],
+    "Walt Whitman-William Shakespeare": [
+        0.8478773026589981,
+        0.8488163020677255
+    ],
+    "Walt Whitman-Ezra Pound": [
+        0.8851532418352882,
+        0.8864880864288885
+    ],
+    "Walt Whitman-T. S. Eliot": [
+        0.8983995289727466,
+        0.9037719037719038
+    ],
+    "William Shakespeare-Ezra Pound": [
+        0.871846359240817,
+        0.8760385510136258
+    ],
+    "William Shakespeare-T. S. Eliot": [
+        0.7833333333333333,
+        0.7465024013363959
+    ],
+    "Ezra Pound-T. S. Eliot": [
+        0.7992753623188407,
+        0.7949656750572083
+    ],
+    "duration": 623.3555181026459,
+    "ratio": 0.3
+},
+{
+    "Dante Alighieri-John Milton": [
+        0.9173809568962238,
+        0.9256813740615036
+    ],
+    "Dante Alighieri-William Butler Yeats": [
+        0.8889774183215888,
+        0.8901032477292035
+    ],
+    "Dante Alighieri-Walt Whitman": [
+        0.9677055459611518,
+        0.9697749196141479
+    ],
+    "Dante Alighieri-William Shakespeare": [
+        0.9587737843551798,
+        0.9327475642766264
+    ],
+    "Dante Alighieri-Ezra Pound": [
+        0.982192284201094,
+        0.9840270658191511
+    ],
+    "Dante Alighieri-T. S. Eliot": [
+        0.9921310707665274,
+        0.9950025848698949
+    ],
+    "John Milton-William Butler Yeats": [
+        0.8863274750213419,
+        0.8918702195904269
+    ],
+    "John Milton-Walt Whitman": [
+        0.9439288533564358,
+        0.948785046728972
+    ],
+    "John Milton-William Shakespeare": [
+        0.9216274917115974,
+        0.9275025799793601
+    ],
+    "John Milton-Ezra Pound": [
+        0.9718728141602975,
+        0.9732894255397
+    ],
+    "John Milton-T. S. Eliot": [
+        0.982922586256886,
+        0.9840177580466148
+    ],
+    "William Butler Yeats-Walt Whitman": [
+        0.7763039433743197,
+        0.7865437692027287
+    ],
+    "William Butler Yeats-William Shakespeare": [
+        0.8731991525423728,
+        0.8717370286819207
+    ],
+    "William Butler Yeats-Ezra Pound": [
+        0.8951337710168135,
+        0.8962497424273645
+    ],
+    "William Butler Yeats-T. S. Eliot": [
+        0.9143751838707882,
+        0.9130884635281945
+    ],
+    "Walt Whitman-William Shakespeare": [
+        0.877634011090573,
+        0.8868753432180121
+    ],
+    "Walt Whitman-Ezra Pound": [
+        0.8905044510385757,
+        0.9020004495392223
+    ],
+    "Walt Whitman-T. S. Eliot": [
+        0.9168329177057357,
+        0.924297520661157
+    ],
+    "William Shakespeare-Ezra Pound": [
+        0.8496561908717523,
+        0.8594171613599568
+    ],
+    "William Shakespeare-T. S. Eliot": [
+        0.8774774774774775,
+        0.8593075987169561
+    ],
+    "Ezra Pound-T. S. Eliot": [
+        0.6940772078265469,
+        0.7099447513812155
+    ],
+    "duration": 525.3480896949768,
+    "ratio": 0.5
+},
+{
+    "Dante Alighieri-John Milton": [
+        0.9281558217456656,
+        0.9376926821353238
+    ],
+    "Dante Alighieri-William Butler Yeats": [
+        0.9191809397471313,
+        0.918809443254013
+    ],
+    "Dante Alighieri-Walt Whitman": [
+        0.9658609968909839,
+        0.9690056639395846
+    ],
+    "Dante Alighieri-William Shakespeare": [
+        0.9429480496072266,
+        0.9424246737841044
+    ],
+    "Dante Alighieri-Ezra Pound": [
+        0.9866356974762146,
+        0.9858744394618834
+    ],
+    "Dante Alighieri-T. S. Eliot": [
+        0.9911925425908068,
+        0.9940529622980251
+    ],
+    "John Milton-William Butler Yeats": [
+        0.8545876951738821,
+        0.8638249887235002
+    ],
+    "John Milton-Walt Whitman": [
+        0.9366010077874485,
+        0.9411128729998558
+    ],
+    "John Milton-William Shakespeare": [
+        0.8668550933686795,
+        0.8457171405213916
+    ],
+    "John Milton-Ezra Pound": [
+        0.9666493263047821,
+        0.9677859847309291
+    ],
+    "John Milton-T. S. Eliot": [
+        0.9785317152544316,
+        0.9801538079880923
+    ],
+    "William Butler Yeats-Walt Whitman": [
+        0.817536534446764,
+        0.8354717639870821
+    ],
+    "William Butler Yeats-William Shakespeare": [
+        0.8535945386265105,
+        0.847003712214955
+    ],
+    "William Butler Yeats-Ezra Pound": [
+        0.9007205065966616,
+        0.9093625498007968
+    ],
+    "William Butler Yeats-T. S. Eliot": [
+        0.9264270613107822,
+        0.9244288224956063
+    ],
+    "Walt Whitman-William Shakespeare": [
+        0.9007008483954261,
+        0.9061391541609822
+    ],
+    "Walt Whitman-Ezra Pound": [
+        0.901356776999681,
+        0.9032006245120999
+    ],
+    "Walt Whitman-T. S. Eliot": [
+        0.9216412179239926,
+        0.9238057639163048
+    ],
+    "William Shakespeare-Ezra Pound": [
+        0.8834355200984871,
+        0.9042441248684672
+    ],
+    "William Shakespeare-T. S. Eliot": [
+        0.9272292993630573,
+        0.9294330518697226
+    ],
+    "Ezra Pound-T. S. Eliot": [
+        0.7257066876785185,
+        0.7554309740714786
+    ],
+    "duration": 582.8895869255066,
+    "ratio": 0.1
+}
+{'Dante Alighieri-John Milton': [0.9028049346740105, 0.9114817433462956], 'Dante Alighieri-William Butler Yeats': [0.9351230625306186, 0.9399742248502767], 'Dante Alighieri-Walt Whitman': [0.9501268778735682, 0.9527786231663522], 'Dante Alighieri-William Shakespeare': [0.9435139915976709, 0.9326170096521581], 'Dante Alighieri-Ezra Pound': [0.9816561409194943, 0.9843480623151911], 'Dante Alighieri-T. S. Eliot': [0.9874627381413743, 0.9887578626183301], 'John Milton-William Butler Yeats': [0.9139699895312319, 0.9188996070025008], 'John Milton-Walt Whitman': [0.9312497444783338, 0.93536], 'John Milton-William Shakespeare': [0.9322793072081597, 0.9373988127361036], 'John Milton-Ezra Pound': [0.9687933956193723, 0.9701899327144196], 'John Milton-T. S. Eliot': [0.9777706691353563, 0.9798253893345917], 'William Butler Yeats-Walt Whitman': [0.7031446540880503, 0.7128153023810576], 'William Butler Yeats-William Shakespeare': [0.8244627792713451, 0.8156004676799733], 'William Butler Yeats-Ezra Pound': [0.9063057114559261, 0.8983890954151177], 'William Butler Yeats-T. S. Eliot': [0.9306510278528932, 0.944792973651192], 'Walt Whitman-William Shakespeare': [0.8798615141123713, 0.8889960226587923], 'Walt Whitman-Ezra Pound': [0.8650290282113371, 0.8725622057834567], 'Walt Whitman-T. S. Eliot': [0.8975003249707527, 0.9008844587954513], 'William Shakespeare-Ezra Pound': [0.8484772577455504, 0.8554232133806386], 'William Shakespeare-T. S. Eliot': [0.9469166127989658, 0.9738430583501007], 'Ezra Pound-T. S. Eliot': [0.70444209413009, 0.7055572612833896], 'duration': 413.18813586235046, 'ratio': 0.7}
+{'Dante Alighieri-John Milton': 0.9376926821353238, 'Dante Alighieri-William Butler Yeats': 0.918809443254013, 'Dante Alighieri-Walt Whitman': 0.9690056639395846, 'Dante Alighieri-William Shakespeare': 0.9424246737841044, 'Dante Alighieri-Ezra Pound': 0.9858744394618834, 'Dante Alighieri-T. S. Eliot': 0.9940529622980251, 'John Milton-William Butler Yeats': 0.8638249887235002, 'John Milton-Walt Whitman': 0.9411128729998558, 'John Milton-William Shakespeare': 0.8457171405213916, 'John Milton-Ezra Pound': 0.9677859847309291, 'John Milton-T. S. Eliot': 0.9801538079880923, 'William Butler Yeats-Walt Whitman': 0.8354717639870821, 'William Butler Yeats-William Shakespeare': 0.847003712214955, 'William Butler Yeats-Ezra Pound': 0.9093625498007968, 'William Butler Yeats-T. S. Eliot': 0.9244288224956063, 'Walt Whitman-William Shakespeare': 0.9061391541609822, 'Walt Whitman-Ezra Pound': 0.9032006245120999, 'Walt Whitman-T. S. Eliot': 0.9238057639163048, 'William Shakespeare-Ezra Pound': 0.9042441248684672, 'William Shakespeare-T. S. Eliot': 0.9294330518697226, 'Ezra Pound-T. S. Eliot': 0.7554309740714786, 'duration': 560.8789010047913, 'ratio': 0.1}
